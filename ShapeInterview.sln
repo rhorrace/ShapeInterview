@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeInterview", "ShapeInterview.csproj", "{73038B7E-C21D-4B4E-90B0-DF6E17E1B43D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73038B7E-C21D-4B4E-90B0-DF6E17E1B43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73038B7E-C21D-4B4E-90B0-DF6E17E1B43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73038B7E-C21D-4B4E-90B0-DF6E17E1B43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73038B7E-C21D-4B4E-90B0-DF6E17E1B43D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAD95627-7E1A-4FFF-9866-5086963CDA07}
+	EndGlobalSection
+EndGlobal
