@@ -21,7 +21,7 @@ if (input == null || !input.Any())
 
 
 ShapeParser parser = new ShapeParser();
-List<Shape> shapes = input.Select(x => parser.ParseString(x) ?? new Polygon(-1, new List<Point>())).ToList();
+List<Shape> shapes = input.Select(x => global::ShapeInterview.Parsers.ShapeParser.ParseString(x) ?? new Polygon(-1, new List<Point>())).ToList();
 
 if (shapes == null || !shapes.Any())
 {
